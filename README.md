@@ -1,2 +1,2 @@
 # super-duper-octo-adventure
-testrepository for practicwork
+тестовый репозиторий для практической работы
